@@ -115,4 +115,11 @@ Suggested format:
 | Customer | As a customer, I want to browse available spaces so that I can decide what to book.    | Customers need to see what is available before booking. | Core            |
 | Staff    | As staff, I want to update booking status so that reservations can be tracked clearly. | Staff need to manage the booking workflow.              | Core            |
 
+## Submission
+1. Create a new file and save it in:
+```text
+/docs/brief/user-stories.md
+```
+
 ---
+
