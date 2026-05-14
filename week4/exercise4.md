@@ -40,36 +40,24 @@ Week / Date Range:
 
 ## 2. What I actually did
 - ...
-
-## 3. Evidence Links
+For each item, show evidence (if any, but emphatically recommended)
 - Issue(s):
 - Pull Request(s):
 - Commit(s):
 - Document(s):
 - Meeting notes / other evidence:
+- For each item you can mention collarboration / help given or received from teammates
 
-## 4. Testing / Verification
-- How did I check that my work was correct?
-- Did someone review it?
-- Did CI pass, if relevant?
-
-## 5. Team Communication / Collaboration
-- Meetings attended:
-- Help given to teammates:
-- Help received from teammates:
-
-## 6. Blockers / Problems
+## 3. Blockers / Problems
 - What blocked me?
 - How did I respond?
 
-## 7. Short Reflection
-- What did I learn this week?
-- What should I improve next week?
+## 4. Short Reflection
+- What did I learn this week? (minimal 50 to 100 words max)
 
-## 8. AI Assistance, if any
-- What AI tool did I use?
-- What did I use it for?
-- How did I verify the result?
+## 5. What I plan or have been assigned to do next week?
+- List backlog items
+
 ```
 
 ## Submission
@@ -89,9 +77,8 @@ A good contribution log:
 * Is updated weekly.
 * Clearly states what the student personally did.
 * Includes evidence links where possible.
-* Mentions testing or verification.
+* Mentions testing or verification. (if any)
 * Shows honest reflection.
-* Documents AI assistance if used.
 
 Weak contribution logs usually say only:
 
