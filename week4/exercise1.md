@@ -10,7 +10,7 @@ Team activity and team assignment.
 
 ## Time Allocation
 
-**In class:** maximum 1 hour
+**In class:** maximum 1 hour \
 **Outside class:** teams may continue refining and submit within 3–5 days after class
 
 ## Instructions
