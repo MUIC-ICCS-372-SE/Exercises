@@ -46,7 +46,7 @@ For each item, show evidence (if any, but emphatically recommended)
 - Commit(s):
 - Document(s):
 - Meeting notes / other evidence:
-- For each item you can mention collarboration / help given or received from teammates
+- For each item you can mention collaboration / help given or received from teammates
 
 ## 3. Blockers / Problems
 - What blocked me?
