@@ -156,7 +156,7 @@ Your team should produce:
    Each member must push to team repository:\
 
    ```
-   docs/sprint-meetings/individual/contribution_sprint[x].md
+   docs/sprint-meetings/individual/[YourFirstName]_log_sprint[x].md
    ```
 
 ## Sprint Meeting Notes Template
