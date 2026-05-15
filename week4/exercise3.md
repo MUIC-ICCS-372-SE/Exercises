@@ -187,7 +187,7 @@ Problems / blockers:
 - ...
 
 ## 3. Current Sprint Plan
-Sprint Goal:
+Sprint Goal - (Description of purposeful goal(s) to achieve this sprint):
 
 Selected Issues:
 | Issue | Priority | Estimate | Owner | Notes |
