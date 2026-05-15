@@ -200,7 +200,7 @@ Selected Issues:
 ## 5. Decisions Made (major decisions)
 - ...
 
-## 6. Action Items
+## 6. Action Items (Apart from backlog tasks on the board, any other small tasks (call client/write emails etc.) you agreed somebody should do? If no then don't fill it.)
 | Action | Owner | Due Date |
 |---|---|---|
 | | | |
