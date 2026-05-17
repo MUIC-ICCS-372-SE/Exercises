@@ -215,7 +215,7 @@ Name:
 ```text
 Subject: "Team[YY] - Sprint [X] Update" -----> Where YY is your team number, and X is the sprint number, e.g. "Team07 - Sprint 1 Update".
 
-Dear [Client/Instructor],
+Dear [Client/Company/Organization Name],
 
 [Your message / Context / Warm and not alarming / But honest]
 
