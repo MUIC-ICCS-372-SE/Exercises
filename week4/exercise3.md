@@ -213,7 +213,7 @@ Name:
 ## Client Update Email Template
 
 ```text
-Subject: [Team Name] Sprint Update — Week [X]
+Subject: "Team[YY] - Sprint [X] Update" -----> Where YY is your team number, and X is the sprint number, e.g. "Team07 - Sprint 1 Update".
 
 Dear [Client/Instructor],
 
@@ -232,6 +232,9 @@ Key decisions made:
 - ...
 
 Next actions:
+- ...
+
+[You can add anything else you deem necessary]:
 - ...
 
 Best regards,
