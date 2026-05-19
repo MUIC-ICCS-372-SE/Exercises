@@ -25,7 +25,7 @@ Using the provided example as a structural guide is acceptable. However, the con
 
 # Team 01 — LearnNest Bangkok
 
-## Final Score: 17.2 / 20
+## Final Score: 17.6 / 20
 
 ## Summary
 
@@ -48,7 +48,7 @@ Another important correction: the AI Assistant should not be treated as a stakeh
 | **3. MVP Scope and Out-of-Scope Boundaries**          | **2.4 / 3** | The MVP direction is mostly realistic: course listing, inquiry form, staff dashboard, inquiry status update, course information management, and persistent records all fit the case. The core workflow is also clear. However, the “Staff Booking Dashboard” section mentions “selected room/desk,” which clearly belongs to the WorkNook example and does not fit LearnNest. The AI-assisted functionality should also be stated more explicitly in the MVP scope, because this is an AI-assisted case.                                                                                            |
 | **4. Assumptions, Constraints, and Risks**            | **2.7 / 3** | The assumptions and constraints are good. You correctly mention demo data, manual enrollment confirmation, simplified seat availability, AI API limitations, and staff review of AI-generated summaries/classifications. Time slots are legitimate for this case because classes, trial sessions, and schedules can involve time-based availability. The main issue is wording and framing: risks should be written in LearnNest-specific terms, such as class seat conflicts, trial request conflicts, missed follow-ups, outdated course information, AI misclassification, and AI hallucination. |
 | **5. Success Criteria / What Makes the MVP Valuable** | **2.4 / 3** | The success criteria are generally useful: students/parents can view class information, submit inquiries, see seat availability, and staff can follow up. However, the section still says “clearer booking workflow,” which should be “clearer inquiry and enrollment workflow.” Also add at least one AI-related success criterion, such as: “AI-generated summaries or inquiry classifications can be reviewed by staff before action is taken.”                                                                                                                                                  |
-| **6. Initial Technical Direction and Feasibility**    | **1.6 / 2** | React, Node.js + Express, PostgreSQL, Git, and local demo are reasonable choices. However, because this is an AI-assisted case, the technical direction should mention how the AI assistant will be implemented: external API, mocked AI response, rule-based prototype, or another approach. You should also mention how AI outputs will be reviewed or stored.                                                                                                                                                                                                                                    |
+| **6. Initial Technical Direction and Feasibility**    | **2.0 / 2** | The initial technical direction is acceptable for Product Brief v0.5. React, Node.js + Express, PostgreSQL, Git, and local demo are reasonable choices for this stage. For v1, you can improve this section by briefly explaining how the AI assistant will be implemented, such as using an external API, mocked AI response, rule-based prototype, or another approach.                                                                                                                                                                                                                           |
 | **7. Organization, Clarity, and Professionalism**     | **1.6 / 2** | The brief is well organized and mostly easy to read. The structure is complete. However, copied/mismatched wording reduces professionalism. The MVP list also skips numbering from 6 to 8. For the next version, proofread carefully and make sure every phrase fits the LearnNest case.                                                                                                                                                                                                                                                                                                            |
 
 ## Main Improvements for v1
@@ -62,6 +62,6 @@ Another important correction: the AI Assistant should not be treated as a stakeh
 7. Add success criteria for staff-reviewed AI summaries or classifications.
 8. Proofread numbering and case-specific terminology.
 
-**Score: 17.2 / 20**
+---
 
 
