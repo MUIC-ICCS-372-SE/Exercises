@@ -164,17 +164,6 @@ Your team should produce or update the following:
 3. Client update email
 4. Individual contribution logs updated by each member
 
-Suggested sprint meeting notes location:
-
-```text
-/docs/sprint-meetings/notes/notes_sprint[x].md
-```
-
-Suggested individual contribution log location:
-
-```text
-/docs/sprint-meetings/individual/[YourFirstName]_log_sprint[x].md
-```
 
 ---
 
