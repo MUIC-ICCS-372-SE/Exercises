@@ -42,8 +42,7 @@ Your writing in this activity should be specific, concrete, and professional.
 This means:
 
 * name actual features, flows, pages, modules, or decisions instead of speaking only in vague general terms
-* explain your reasoning, not only your conclusion
-* use professional academic and engineering language
+* explain your reasoning, not only stating your conclusion
 * avoid casual, unclear, or overly conversational wording
 * make sure each section says something meaningful and evidence-based
 
@@ -94,19 +93,9 @@ Your team must complete the following:
 
    * Add an ADR #2 document to your repository.
    * Keep it short and focused.
-   * Follow the same general structure and expectations as ADR #1.
+   * Follow the same general structure and expectations as [ADR # 1 Task](https://github.com/MUIC-ICCS-372-SE/Exercises/blob/main/week4/exercise2.md)).
    * Record meaningful recent decisions your team has made, changed, or seriously considered.
    * This document may contain one ADR or multiple ADR entries, depending on your team’s recent decisions.
-
-   Good topics include decisions related to:
-
-   * scope reduction or scope change
-   * architecture or data flow adjustments
-   * implementation approach changes
-   * mocking, simplification, or deferral choices
-   * workflow or delivery decisions with real tradeoffs
-
-   Avoid weak ADRs that describe trivial preferences or decisions with no meaningful tradeoff.
 
 4. Project Realignment Report
 
@@ -134,14 +123,15 @@ Your team must complete the following:
 
    * include updated board screenshot(s)
 
-   The screenshots must be readable and relevant. The writing must refer to the evidence shown. Do not just paste screenshots without explanation. Use professional language and explain what the evidence means.
+   The screenshots must be readable and relevant. The writing must refer to the evidence shown. Do not just paste screenshots without explanation.
 
    ### Section C: Completion Forecast
 
    Write this section in two separate sub-sections:
 
    * Sub-section 1: Explain the biggest remaining risks or blockers.
-   * Sub-section 2: State clearly whether the current plan is realistic and why.
+   * Sub-section 2: State clearly whether the current plan is realistic and why. And when, according to your forecast, will you finish the project.
+   * Sub-section 3: Estimate the timeline by week (we have 3 weeks of implementation left). Write here what you plan to do weekly to meet the deadline. It doesn't have to be extensive.
 
    This section should be honest and specific. If your team is behind, say so clearly. If your plan depends on simplifying scope, say that clearly as well. Do not avoid difficult realities by using vague language.
 
@@ -205,6 +195,8 @@ Do not:
 * ignore earlier instructor feedback
 
 ## Rubric — Project Realignment and Artifact Repair (20 pts)
+
+Notes that the points here are for your information. Midway or partial points may be awarded.
 
 | Criterion                                                                    | Excellent                                                                                                                                                                                                                      | Good                                                                                                                                                                                         | Satisfactory                                                                                                                                         | Not Acceptable                                                                                                              |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
