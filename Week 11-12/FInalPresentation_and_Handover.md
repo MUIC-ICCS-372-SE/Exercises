@@ -195,8 +195,11 @@ A Jack/Jill must push the handover file to:
 # Final Handover
 
 Team: Team [xx]
+
 Project Name: [Project Name]
+
 Repository Link: [Repository URL]
+
 Presentation Slides: [Slides Link or PDF Path]
 
 ## 1. Product Summary
