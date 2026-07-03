@@ -194,7 +194,7 @@ A Jack/Jill must push the PDF of the slides to:
 A Jack/Jill must push the handover file to:
 
 ```
-/docs/HANDOVER.md
+/docs/handover/handover.md
 ```
 
 ## Rubric — Final Project Presentation, Lightweight Handover, and Repository Cleanup (120 pts)
