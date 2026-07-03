@@ -32,7 +32,7 @@ There is no strict slide limit. However, your team must not exceed the time limi
 
 ## Instructions
 
-2 Tasks: Prepare a client-style final project presentation and lightweight handover.
+3 Tasks: Prepare a client-style final project presentation and lightweight handover. And repository cleanup.
 
 You are presenting to the client.
 
