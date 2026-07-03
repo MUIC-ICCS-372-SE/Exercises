@@ -18,13 +18,13 @@ Presentation: in class
 Maximum presentation time:
 
 ```
-30 minutes per team
+45 minutes per team (Not exceeding)
 ```
 
 Recommended structure:
 
 ```
-20–25 minutes presentation and product demo
+30-40 minutes presentation and product demo
 5–10 minutes Q&A
 ```
 
@@ -72,7 +72,7 @@ Your presentation should include:
    * Explain the main request/data flow.
    * Mention important ADRs or technical decisions.
    * Explain how you know the system works reasonably well.
-   * Briefly mention GitHub, issues, branches, pull requests, or project board evidence that you used. The idea is so that your clients would know you have had solid and structured processes in place.
+   * Briefly mention GitHub, issues, branches, pull requests, or project board evidence that you used. The idea is so that your clients would know you have had solid and structured processes in place. (Briefly mention these, don't get lost in them).
 
 5. Handover Summary
 
@@ -89,6 +89,7 @@ Your presentation should include:
    * Say thank you and show appreciation to your client.
 
 ## TASK 2: Lightweight Handover Requirement
+(There's a handover.md template at the end of file. Copy the content and create your own handover.md)
 
 Your team must create or update the following:
 
@@ -157,31 +158,10 @@ Weak presentation behavior:
 
 ## Submission
 
-Submit the presentation slides before class both in PDF and slides link.
-
+1. Submit the presentation slides before class both in PDF and slides link.
 For the slides, submit the shareable view link and ensure access is open to the instructor.
 
-Also submit or push the handover file to the repository.
-
-## File Naming
-
-Presentation slides:
-
-```
-Team[xx]_Final_Project_Presentation
-```
-
-Presentation PDF:
-
-```
-Team[xx]_Final_Project_Presentation.pdf
-```
-
-Handover file:
-
-```
-HANDOVER.md
-```
+2. Also push the handover.md file to the repository.
 
 ## Push to Repository
 
