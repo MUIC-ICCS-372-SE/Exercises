@@ -158,8 +158,8 @@ Weak presentation behavior:
 
 ## Submission
 
-1. Submit the presentation slides before class both in PDF and slides link.
-For the slides, submit the shareable view link and ensure access is open to the instructor.
+1. Submit the presentation slides to the Google Classroom assignment before class both in PDF and slides link.
+For the slides, submit via comment the shareable view link and ensure access is open to the instructor.
 
 2. Also push the handover.md file to the repository.
 
